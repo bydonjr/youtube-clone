@@ -1,7 +1,5 @@
 ## Youtube Clone
 
-This is a youtube clone built in **React** around a Youtube RAPID API
-
 ## Screenshots
 
 ![1](picture/1.png)
